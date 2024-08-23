@@ -67,4 +67,4 @@ Contributions are welcome! Feel free to submit pull requests.
 
 ## Contact
 
-For any questions or inquiries, please contact [madhumoi0266@gmail.com](mailto:madhumoi0266@gmail.com).
+For any questions or inquiries, please contact [madhumoi0266@gmail.com](mailto:principorwal09@gmail.com).
