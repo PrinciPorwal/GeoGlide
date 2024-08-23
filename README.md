@@ -5,7 +5,9 @@ GeoGlide is a web application built with Node.js, Express, and the OpenStreetMap
 
 [Click here to launch GeoGlide](https://geoglide.onrender.com/)
 
-![GeoGlide Screenshot](https://github.com/Madhumitamoi/GeoGlide/blob/master/Screenshot%20(110).png)
+![GeoGlide Screenshot](Screenshot (110).png 
+![image](https://github.com/user-attachments/assets/ad4f7e67-2be7-4420-a9d1-435d627bf51b)
+)
 
 ## Features
 
@@ -67,4 +69,4 @@ Contributions are welcome! Feel free to submit pull requests.
 
 ## Contact
 
-For any questions or inquiries, please contact [madhumoi0266@gmail.com](mailto:principorwal09@gmail.com).
+For any questions or inquiries, please contact [principorwal09@gmail.com](mailto:principorwal09@gmail.com).
